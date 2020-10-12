@@ -1,5 +1,5 @@
 {
-  "name": "laulamanapps/Izettle-api",
+  "name": "laulamanapps/izettle-api",
   "description": "Izettle API PHP Client",
   "license": "MIT",
   "authors": [
@@ -20,10 +20,10 @@
   },
   "require": {
     "php": ">=7.1",
-    "guzzlehttp/guzzle": "^6.3",
+    "guzzlehttp/guzzle": "^7.0.1",
     "moneyphp/money": "^3.0",
-    "ramsey/uuid": "^3.7",
-    "werkspot/enum": "^2.1",
+    "ramsey/uuid": "^4.0",
+    "werkspot/enum": "^3.0",
     "ext-json": "*"
   },
   "require-dev": {
